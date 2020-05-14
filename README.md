@@ -3,6 +3,7 @@
 
 #### backend.py: 
 Connects to Microsoft Azure Face API to analyze facial expression in photo.
+
 TODO: Connect to Giphy API to search for gifs based on dominant emotion shown.
 
 #### frontend.py:
